@@ -1,4 +1,4 @@
-# MedElite – Hospital Management System
+# MedElite – A Hospital Management System
 **Secure MERN-Based Healthcare Workflow Platform**
 
 MedElite is a full-stack Hospital Management System designed to streamline healthcare operations through **role-based dashboards, appointment scheduling, billing workflows, and centralized patient medical records**. The platform enables patients, doctors, and receptionists to manage hospital processes efficiently through a unified digital interface.
