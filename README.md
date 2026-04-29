@@ -6,7 +6,7 @@ MedElite is a full-stack Hospital Management System designed to streamline healt
 ---
 
 ## Overview
-Traditional hospital workflows often involve fragmented systems, manual paperwork, and inefficient coordination between departments. MedElite provides a **centralized digital solution** that simplifies appointment handling, patient record management, billing, and authentication while ensuring secure access for different user roles.
+Traditional hospital workflows often involve fragmented systems, manual paperwork, and inefficient coordination between departments. MedElite provides a **centralized digital solution** that simplifies appointment handling, patient record management, billing, and authentication while ensuring secure access for different types of user roles.
 
 ---
 
